@@ -1,0 +1,30 @@
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\bin\Debug\Ej4DINT.exe.config
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\bin\Debug\Ej4DINT.exe
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\bin\Debug\Ej4DINT.pdb
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\Ej4DINT.csprojAssemblyReference.cache
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\MainWindow.g.cs
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\App.g.cs
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\Ej4DINT_MarkupCompile.cache
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\Ej4DINT_MarkupCompile.lref
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\MainWindow.baml
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\Ej4DINT.g.resources
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\Ej4DINT.Properties.Resources.resources
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\Ej4DINT.csproj.GenerateResource.cache
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\Ej4DINT.csproj.CoreCompileInputs.cache
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\Ej4DINT.exe
+C:\Users\777\Documents\DINT-WPF\Ej4DINT\obj\Debug\Ej4DINT.pdb
+E:\DINT\ejercicios WPF\Ej4DINT\bin\Debug\Ej4DINT.exe.config
+E:\DINT\ejercicios WPF\Ej4DINT\bin\Debug\Ej4DINT.exe
+E:\DINT\ejercicios WPF\Ej4DINT\bin\Debug\Ej4DINT.pdb
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\Ej4DINT.csprojAssemblyReference.cache
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\MainWindow.g.cs
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\App.g.cs
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\Ej4DINT_MarkupCompile.cache
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\Ej4DINT_MarkupCompile.lref
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\MainWindow.baml
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\Ej4DINT.g.resources
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\Ej4DINT.Properties.Resources.resources
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\Ej4DINT.csproj.GenerateResource.cache
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\Ej4DINT.csproj.CoreCompileInputs.cache
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\Ej4DINT.exe
+E:\DINT\ejercicios WPF\Ej4DINT\obj\Debug\Ej4DINT.pdb
