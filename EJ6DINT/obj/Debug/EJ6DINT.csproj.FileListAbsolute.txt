@@ -1,0 +1,15 @@
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\bin\Debug\EJ6DINT.exe.config
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\bin\Debug\EJ6DINT.exe
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\bin\Debug\EJ6DINT.pdb
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\EJ6DINT.csprojAssemblyReference.cache
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\MainWindow.g.cs
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\App.g.cs
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\EJ6DINT_MarkupCompile.cache
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\EJ6DINT_MarkupCompile.lref
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\MainWindow.baml
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\EJ6DINT.g.resources
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\EJ6DINT.Properties.Resources.resources
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\EJ6DINT.csproj.GenerateResource.cache
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\EJ6DINT.csproj.CoreCompileInputs.cache
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\EJ6DINT.exe
+C:\Users\777\Documents\DINT-WPF\EJ6DINT\obj\Debug\EJ6DINT.pdb
