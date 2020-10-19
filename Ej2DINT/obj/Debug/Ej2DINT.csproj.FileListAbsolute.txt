@@ -1,0 +1,30 @@
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\bin\Debug\Ej2DINT.exe.config
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\bin\Debug\Ej2DINT.exe
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\bin\Debug\Ej2DINT.pdb
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\Ej2DINT.csprojAssemblyReference.cache
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\MainWindow.g.cs
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\App.g.cs
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\Ej2DINT_MarkupCompile.cache
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\Ej2DINT_MarkupCompile.lref
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\MainWindow.baml
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\Ej2DINT.g.resources
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\Ej2DINT.Properties.Resources.resources
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\Ej2DINT.csproj.GenerateResource.cache
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\Ej2DINT.csproj.CoreCompileInputs.cache
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\Ej2DINT.exe
+C:\DAM-Nikita\DINT-Ejercicios WPF\Ej2DINT\obj\Debug\Ej2DINT.pdb
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\bin\Debug\Ej2DINT.exe.config
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\bin\Debug\Ej2DINT.exe
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\bin\Debug\Ej2DINT.pdb
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\Ej2DINT.csprojAssemblyReference.cache
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\MainWindow.g.cs
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\App.g.cs
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\Ej2DINT_MarkupCompile.cache
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\Ej2DINT_MarkupCompile.lref
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\MainWindow.baml
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\Ej2DINT.g.resources
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\Ej2DINT.Properties.Resources.resources
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\Ej2DINT.csproj.GenerateResource.cache
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\Ej2DINT.csproj.CoreCompileInputs.cache
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\Ej2DINT.exe
+C:\Users\777\Documents\DINT-WPF\Ej2DINT\obj\Debug\Ej2DINT.pdb
