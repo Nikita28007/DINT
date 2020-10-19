@@ -1,0 +1,15 @@
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\bin\Debug\Ej7DINT.exe.config
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\bin\Debug\Ej7DINT.exe
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\bin\Debug\Ej7DINT.pdb
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\Ej7DINT.csprojAssemblyReference.cache
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\MainWindow.g.cs
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\App.g.cs
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\Ej7DINT_MarkupCompile.cache
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\Ej7DINT_MarkupCompile.lref
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\MainWindow.baml
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\Ej7DINT.g.resources
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\Ej7DINT.Properties.Resources.resources
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\Ej7DINT.csproj.GenerateResource.cache
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\Ej7DINT.csproj.CoreCompileInputs.cache
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\Ej7DINT.exe
+C:\Users\777\Documents\DINT-WPF\Ej7DINT\obj\Debug\Ej7DINT.pdb

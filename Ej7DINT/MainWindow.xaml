@@ -1,0 +1,28 @@
+﻿<Window x:Class="Ej7DINT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ej7DINT"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="361.112" Width="984.237">
+    <Grid>
+        <RadioButton Content="Pequeño" Tag="1" HorizontalAlignment="Left" Margin="177,209,0,0" VerticalAlignment="Top" FontSize="30" Checked="RadioButton_Checked" />
+        <RadioButton Content="Mediano" Tag="2" HorizontalAlignment="Left" Margin="392,209,0,0" VerticalAlignment="Top" FontSize="30" Checked="RadioButton_Checked" />
+        <RadioButton Content="Grande" Tag="3" HorizontalAlignment="Left" Margin="624,209,0,0" VerticalAlignment="Top" FontSize="30" Checked="RadioButton_Checked"/>
+        <TextBlock x:Name="TextoTextBlock" HorizontalAlignment="Left" Margin="52,34,0,0" TextWrapping="Wrap" Text="Desarollo de interfaces" VerticalAlignment="Top" RenderTransformOrigin="-0.355,0.21" Height="118" Width="820" TextAlignment="Center" FontWeight="Bold" FontSize="48" Foreground="#FF4B7DC5">
+            <TextBlock.Effect>
+                <DropShadowEffect/>
+            </TextBlock.Effect>
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+
+    </Grid>
+</Window>
